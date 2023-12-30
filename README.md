@@ -1,5 +1,10 @@
 # lua in one page
 
+[!NOTE] Work in progress
+
+- [] Add examples
+- [] Add more details
+
 ## data types
 
 ### Bools
@@ -47,6 +52,7 @@
 #### while
 
 - `while` syntax:
+
   ```lua
   local i = 1
   while i <= 10 do
@@ -58,6 +64,7 @@
 #### repeat until
 
 - `repeat until` syntax:
+
   ```lua
   local i = 1
   repeat
@@ -65,8 +72,10 @@
       i = i + 1
   until i > 10
   ```
+
 - Repeat a statement until a condition is true.
 - In Lua the scope of a local variable declared inside the loop includes the condition.
+
   ```lua
   local x = 100
   local sqrt = x / 2
