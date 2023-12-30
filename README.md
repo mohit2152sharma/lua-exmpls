@@ -1,9 +1,10 @@
 # lua in one page
 
-[!NOTE] Work in progress
+> [!NOTE]
+> Work in progress
 
-- [] Add examples
-- [] Add more details
+- [ ] Add examples
+- [ ] Add more details
 
 ## data types
 
